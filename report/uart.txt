@@ -1,0 +1,24 @@
+
+
+# [JTAG] SoftReset Done(            10296000)
+# [JTAG] Bypass Test Passed (            16958000)
+# [JTAG] Tap ID: 249511c3 (            22276000)
+# [JTAG] Tap ID Test PASSED (            22276000)
+# [TB]             40000000 - Halting the Core
+# [TB]             48760000 - Debug Module System Bus Access Control and Status: 
+#                  sbbusy          0
+#                  sbreadonaddr    0
+#                  sbaccess        2
+#                  sbautoincrement 0
+#                  sbreadondata    0
+#                  sberror         0
+#                  sbasize         20
+#                  sbaccess32      1              
+# [TB]             63652000 - Resuming the CORE
+# [UART]: Expected  =  4                                                                                                                                                                                                                                                   
+# [UART]: Predicted =  4                                                                                                                                                                                                                                                   
+# [UART]: Result :  1/1                                                                                                                                                                                                                                                    
+# [UART]: credence:  82                                                                                                                                                                                                                                                    
+# [UART]: image env0003: 1725056 instructions                                                                                                                                                                                                                             
+# [UART]: image env0003: 2097231 cycles                                                                                                                                                                                                                                   
+# 
